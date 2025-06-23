@@ -118,7 +118,7 @@ sort: 2
 
 Once you have done all of the above, your project is ready and you can compile and flash it.
 
-Example:
+Example of use:
 
 ```bash
 > getDAC 
